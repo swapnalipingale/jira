@@ -2,7 +2,7 @@
 # This is a trusted build based on the "base" image, but we also need postgresql
 FROM linuxkonsult/postgres
 
-MAINTAINER Tom Eklöf tom@linux-konsult.com
+MAINTAINER Swapnali Pingale
 
 ENV AppName jira-software
 ENV AppVer 7.1.9
